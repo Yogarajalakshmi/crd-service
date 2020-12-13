@@ -1,0 +1,5 @@
+com\freshworks\crdservice\CrdServiceApplication.class
+com\freshworks\crdservice\controller\CrdServiceController.class
+com\freshworks\crdservice\model\CrdServiceModel.class
+com\freshworks\crdservice\service\CrdService.class
+com\freshworks\crdservice\repository\CrdRepository.class
